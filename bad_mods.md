@@ -222,6 +222,7 @@ These are paid mods that you should avoid giving your money to, as they aren't o
 
 ### Track Authors
 	Assetto Corsa Underground(ACU)
+	Assetto Rally GRB (rallyGRB)
 	AC Fanboy
 	ChiQuiFReaKy
 	Tiago Lima
