@@ -4,8 +4,7 @@
 [Cars](#Cars)
 - [Car Authors](#car-authors)
 
-[Tracks](#Tracks)
-- [Track Authors](#track-authors)
+[Track Authors](#track-authors)
 
 [Post-Process Filters](#post-process-filters)
 <br>
