@@ -41,6 +41,7 @@ These are paid mods that you should avoid giving your money to, as they aren't o
 	ADC 
 	ADG
 	Akuma
+	ATCC
 	Assetto Corsa Gold
 	Assetto Garage
 	AssettoLand 
@@ -213,7 +214,8 @@ These are paid mods that you should avoid giving your money to, as they aren't o
 
 #### Car Authors
 <sub><sup>[Back To Index](#cars)</sub></sup>
-
+	Adriano Cotta Ramusino‎
+	Juise
 	Lucas Macedo
 	Mike Rudland
 	Sebastien Dommerdich
@@ -225,10 +227,14 @@ These are paid mods that you should avoid giving your money to, as they aren't o
 	Assetto Corsa Underground(ACU)
 	Assetto Rally GRB (rallyGRB)
 	AC Fanboy
+	ACTK
+	AC Track Reboot
 	ChiQuiFReaKy
 	Tiago Lima
 	Terra21
 	Tyrone
+	Mitja (URD)
+	Patrikpat
 ## Post-Process Filters
 Post-Process Filters bad enough that they may cause visual glitches with CSP / Sol features.
 
