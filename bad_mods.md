@@ -151,6 +151,7 @@ These are paid mods that you should avoid giving your money to, as they aren't o
 
 	RallyWorld
 	Reign
+	Revenge Garage
 	Rider Corsa
 	Rollzie
 	The Rollovers
