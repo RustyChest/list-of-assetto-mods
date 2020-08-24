@@ -2,19 +2,20 @@
 [Paid Mods](#paid-mods)
 
 [Cars](#Cars)
+
 - [Car Authors](#car-authors)
 
 [Track Authors](#track-authors)
 
 [Post-Process Filters](#post-process-filters)
 <br>
-<br>
-<br>
+
 ## Paid Mods
 These are paid mods that you should avoid giving your money to, as they aren't of the best quality possible, especially not for the amount(s) they charge.
 
 	AssettoDrive
 	Assetto Corsa Pursuit
+	DRM Revival
 	RTM
 	SimDream
 	Tommy78
@@ -110,6 +111,7 @@ These are paid mods that you should avoid giving your money to, as they aren't o
 ### Cars - I  
 <sub><sup>[Back To Index](#cars)</sub></sup>
 
+	IFX
 	Initial D Car Pack
 	IRT Drift Engineering
 	
@@ -132,11 +134,12 @@ These are paid mods that you should avoid giving your money to, as they aren't o
 	Le Crymserv
 	Legion
 	LND
-	
+	Lonestar
 
 ### Cars - M  
 <sub><sup>[Back To Index](#cars)</sub></sup>
 
+	Madz
 	Midnight Wanderers
 	MTN
 	MMotors
@@ -151,6 +154,7 @@ These are paid mods that you should avoid giving your money to, as they aren't o
 <sub><sup>[Back To Index](#cars)</sub></sup>
 
 	RallyWorld
+	RBMS
 	Reign
 	Revenge Garage
 	Rider Corsa
@@ -177,6 +181,7 @@ These are paid mods that you should avoid giving your money to, as they aren't o
 	Tando Buddies
 	TCL
 	THC
+	The Boys Car Pack
 	Titan
 	TSA
 	Tsujigiri
@@ -214,6 +219,7 @@ These are paid mods that you should avoid giving your money to, as they aren't o
 
 #### Car Authors
 <sub><sup>[Back To Index](#cars)</sub></sup>
+
 	Adriano Cotta Ramusino‎
 	Juise
 	Lucas Macedo
@@ -224,19 +230,25 @@ These are paid mods that you should avoid giving your money to, as they aren't o
 	Wack
 
 ### Track Authors
+<sub><sup>[Back To Index](#cars)</sub></sup>
+
 	Assetto Corsa Underground(ACU)
 	Assetto Rally GRB (rallyGRB)
 	AC Fanboy
 	ACTK
 	AC Track Reboot
 	ChiQuiFReaKy
+	Klutch Kicks & Chill
 	Tiago Lima
 	Terra21
 	Tyrone
 	Mitja (URD)
 	Patrikpat
+
 ## Post-Process Filters
-Post-Process Filters bad enough that they may cause visual glitches with CSP / Sol features.
+<sub><sup>[Back To Index](#cars)</sub></sup>
+
+<p>Post-Process Filters bad enough that they may cause visual glitches with CSP / Sol features.</p>
 
 	BlackCelica's Filter
 	Horizon Shades
