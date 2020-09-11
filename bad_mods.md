@@ -159,7 +159,6 @@ These are paid mods that you should avoid giving your money to, as they aren't o
 	Revenge Garage
 	Rider Corsa
 	Rollzie
-	Rosebud Factory
 	The Rollovers
 	Rotang Clan
 	RUS180
