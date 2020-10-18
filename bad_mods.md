@@ -227,6 +227,7 @@ These are paid mods that you should avoid giving your money to, as they aren't o
 
 	Adriano Cotta Ramusino‎
 	Dan Gaina
+	Dan Bucsa
 	delpinsky
 	JakubP
 	Jaqory
