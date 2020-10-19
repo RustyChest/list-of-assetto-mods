@@ -61,6 +61,8 @@
  
 [World Drift Tour](https://discord.gg/tPn8NrP) ![](https://www.google.com/s2/favicons?domain=www.discord.com)
 
+<sub><esp>*The WDT/WDTS cars are currently not pipeline-standard and have a few visual issues. They are here on the merit of physics alone.</sub></esp>
+
 ### Misc
 
 [Arch's Data Replacements](https://www.racedepartment.com/downloads/authors/kyuubeey.194589/ ) ![](https://www.google.com/s2/favicons?domain=www.racedepartment.com) 
