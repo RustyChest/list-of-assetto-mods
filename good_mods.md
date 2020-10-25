@@ -68,7 +68,7 @@
 
 [Arch's Data Replacements](https://www.racedepartment.com/downloads/authors/kyuubeey.194589/ ) ![](https://www.google.com/s2/favicons?domain=www.racedepartment.com) 
 
-
+[PPC Mod Releases](https://discord.gg/zpDTYDB) ![](https://www.google.com/s2/favicons?domain=www.discord.com)
 ## Tracks
 
 <p>Tracks that are handled by competent people with a lot of experience and aren't just obtuse rF2 conversions or RTB abominations.</p>
