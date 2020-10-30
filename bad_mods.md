@@ -22,7 +22,7 @@ These are paid mods that you should avoid giving your money to, as they aren't o
 	Tyrone
     
 ## Cars
-**[#](#cars--#)[A](#cars---a) [B](#cars---b) [C](#cars---c) [D](#cars---d) [E](#cars---e) [F](#cars---f) [G](#cars---g) [H](#cars---h) [I](#cars---i) [J](#cars---j) [K](#cars---k) [L](#cars---l) [M](#cars---m) [N](#cars---n) [O](#cars---o) [P](#cars---p) [Q](#cars---q) [R](#cars---r) [S](#cars---s) [T](#cars---t) [U](#cars---u) [V](#cars---v) [W](#cars---w) [X](#cars---x) [Y](#cars---y) [Z](#cars---z)**
+**[#](#cars--#) [A](#cars---a) [B](#cars---b) [C](#cars---c) [D](#cars---d) [E](#cars---e) [F](#cars---f) [G](#cars---g) [H](#cars---h) [I](#cars---i) [J](#cars---j) [K](#cars---k) [L](#cars---l) [M](#cars---m) [N](#cars---n) [O](#cars---o) [P](#cars---p) [Q](#cars---q) [R](#cars---r) [S](#cars---s) [T](#cars---t) [U](#cars---u) [V](#cars---v) [W](#cars---w) [X](#cars---x) [Y](#cars---y) [Z](#cars---z)**
 
 ### Cars - \#  
 <sub><sup>[Back To Index](#cars)</sub></sup>
@@ -39,6 +39,7 @@ These are paid mods that you should avoid giving your money to, as they aren't o
 	ACF1
 	ACFL
 	ACFSK
+	AC Legends
 	ACMC
 	ACR
 	ACTR
@@ -225,7 +226,8 @@ These are paid mods that you should avoid giving your money to, as they aren't o
 #### Car Authors
 <sub><sup>[Back To Index](#cars)</sub></sup>
 
-	Adriano Cotta Ramusino‎
+	Adriano Cotta Ramusino
+	Bazza von Dutch
 	Dan Gaina
 	Dan Bucsa
 	delpinsky
@@ -239,6 +241,7 @@ These are paid mods that you should avoid giving your money to, as they aren't o
 	Shaun Clarke 
 	Uncle M.
 	Wack
+	ZorroGSi
 
 ### Track Authors
 <sub><sup>[Back To Index](#cars)</sub></sup>
