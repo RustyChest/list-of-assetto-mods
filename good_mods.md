@@ -20,6 +20,9 @@
 [RSS](https://racesimstudio.com/) ![](https://www.google.com/s2/favicons?domain=racesimstudio.com)
 
 [IER](https://www.iersimulations.com/) ![](https://www.google.com/s2/favicons?domain=iersimulations.com)
+
+[Sergio Loro](https://sellfy.com/f3classictracks/) ![](https://www.google.com/s2/favicons?domain=www.sellfy.com) 
+
 <br>
 
 ## Cars
@@ -83,6 +86,11 @@
 
 [Johnr777](https://www.racedepartment.com/downloads/authors/johnr777.280276/) ![](https://www.google.com/s2/favicons?domain=www.racedepartment.com) 
 
+[Jaasu](https://www.racedepartment.com/downloads/authors/jaasu.245042/) ![](https://www.google.com/s2/favicons?domain=www.racedepartment.com) 
+
+[Sergio Loro's Free Releases](https://sellfy.com/f3classictracks/) ![](https://www.google.com/s2/favicons?domain=www.sellfy.com) 
+
+[Brun](https://www.racedepartment.com/downloads/authors/brun.17545/) ![](https://www.google.com/s2/favicons?domain=www.racedepartment.com) 
 
 ## Post-Process Filters
 <p>A few filters that are user-friendly and don't suffer from common issues like overexposure or glare that is a lot brighter than it should be </p>
