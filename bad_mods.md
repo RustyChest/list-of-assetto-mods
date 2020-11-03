@@ -125,12 +125,12 @@ These are paid mods that you should avoid giving your money to, as they aren't o
 <sub><sup>[Back To Index](#cars)</sub></sup>
 
 	JR
+	Judd
 
 ### Cars - K  
 <sub><sup>[Back To Index](#cars)</sub></sup>
 
 	Kamikaze Works
-	
 
 ### Cars - L  
 <sub><sup>[Back To Index](#cars)</sub></sup>
@@ -149,6 +149,7 @@ These are paid mods that you should avoid giving your money to, as they aren't o
 	Mischief
 	MTN
 	MMotors
+	MNBA
 
 ### Cars - N  
 <sub><sup>[Back To Index](#cars)</sub></sup>
@@ -175,6 +176,7 @@ These are paid mods that you should avoid giving your money to, as they aren't o
 	SDC
 	Shadow Factory
 	Simply Sideways
+	SimRacersJapan
 	Slideboizzz
 	SPBC
 	STS
@@ -185,6 +187,7 @@ These are paid mods that you should avoid giving your money to, as they aren't o
 <sub><sup>[Back To Index](#cars)</sub></sup>
 
 	Tando Buddies
+	Teleport
 	TCL
 	THC
 	The Boys Car Pack
