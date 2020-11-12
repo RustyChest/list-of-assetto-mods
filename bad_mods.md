@@ -220,6 +220,8 @@ These are paid mods that you should avoid giving your money to, as they aren't o
 ### Cars - Y  
 <sub><sup>[Back To Index](#cars)</sub></sup>
 
+	Yoiki Garage
+	
 ### Cars - Z  
 <sub><sup>[Back To Index](#cars)</sub></sup>
 
