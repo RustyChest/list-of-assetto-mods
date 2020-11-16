@@ -11,10 +11,11 @@
 <br>
 
 ## Paid Mods
-These are paid mods that you should avoid giving your money to, as they aren't of the best quality possible, especially not for the amount(s) they charge.
+These are paid mods made by either individuals or groups of people that you should avoid giving your money to, as they aren't of the best quality possible, especially not for the amount(s) they charge.
 
 	AssettoDrive
 	Assetto Corsa Pursuit
+	Codenayme Visuals
 	DRM Revival
 	RTM
 	SimDream
