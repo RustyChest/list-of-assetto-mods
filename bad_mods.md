@@ -134,6 +134,7 @@ These are paid mods made by either individuals or groups of people that you shou
 
 	Kamikaze Works
 
+
 ### Cars - L  
 <sub><sup>[Back To Index](#cars)</sub></sup>
 
@@ -184,6 +185,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	SPBC
 	STS
 	Street Demon
+	Street Kings
 	SQDC
 	
 
@@ -244,6 +246,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	Jaqory
 	Juise
 	Lucas Macedo
+	Kami
 	Mike Rudland
 	Mike173
 	Sebastien Dommerdich
