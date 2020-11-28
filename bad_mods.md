@@ -43,6 +43,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	AC Legends
 	ACMC
 	ACR
+	ACCR
 	ACTR
 	ACW 
 	ADC 
@@ -128,11 +129,13 @@ These are paid mods made by either individuals or groups of people that you shou
 <sub><sup>[Back To Index](#cars)</sub></sup>
 
 	JR
+	JSI
 	Judd
 
 ### Cars - K  
 <sub><sup>[Back To Index](#cars)</sub></sup>
-
+	
+	KlutchKickz
 	Kamikaze Works
 
 
@@ -165,6 +168,7 @@ These are paid mods made by either individuals or groups of people that you shou
 <sub><sup>[Back To Index](#cars)</sub></sup>
 
 	RallyWorld
+	RCH
 	RBMS
 	Reign
 	Revenge Garage
@@ -177,6 +181,7 @@ These are paid mods made by either individuals or groups of people that you shou
 ### Cars - S  
 <sub><sup>[Back To Index](#cars)</sub></sup>
 
+	Sagr
 	SDC
 	Shokeus
 	Shadow Factory
