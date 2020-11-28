@@ -92,6 +92,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	Easy 
 	EDC
 	Eskuko
+	Euro vs. Japan
 	EZ
 
 ### Cars - F  
@@ -121,7 +122,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	IFX
 	Initial D Car Pack
 	IRT Drift Engineering
-	
+	IXA
 
 ### Cars - J  
 <sub><sup>[Back To Index](#cars)</sub></sup>
