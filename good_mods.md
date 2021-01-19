@@ -99,4 +99,4 @@
 
 [NaturalMod](https://www.racedepartment.com/downloads/natural-graphics-mod-filter.4551/) ![](https://www.google.com/s2/favicons?domain=www.racedepartment.com)
 
-[Trawa's Filter](https://discord.gg/zpDTYDB) ![](https://www.google.com/s2/favicons?domain=www.discord.com)
+[Javire's "Photorealistic" Filter](https://www.racedepartment.com/downloads/photorealistic-filter.34050/) ![](https://www.google.com/s2/favicons?domain=www.racedepartment.com)
