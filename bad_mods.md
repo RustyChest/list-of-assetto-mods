@@ -59,6 +59,7 @@ These are paid mods made by either individuals or groups of people that you shou
 ### Cars - B  
 <sub><sup>[Back To Index](#cars)</sub></sup>
 
+	Baker Workshop
 	Bruce Kelt
 	Bonny Mods
 	BTG
