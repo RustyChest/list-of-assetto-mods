@@ -53,6 +53,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	Assetto Corsa Gold
 	Assetto Garage
 	AssettoLand 
+	Assetto Rally GRB (rallyGRB)
 	ASR
 	AVR
 	
@@ -189,6 +190,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	Shadow Factory
 	Simply Sideways
 	SimRacersJapan
+	Simaothekid
 	Slideboizzz
 	SPBC
 	STS
