@@ -263,6 +263,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	Kami
 	Mike Rudland
 	Mike173
+	pclipse
 	Sebastien Dommerdich
 	Shaun Clarke 
 	Uncle M.
@@ -294,3 +295,4 @@ These are paid mods made by either individuals or groups of people that you shou
 
 	BlackCelica's Filter
 	Horizon Shades
+	Inmersive Filter
