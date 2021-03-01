@@ -79,6 +79,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	D1NZ
 	DCGP
 	Death Wish Garage
+	Demon Domain
 	DKD
 	Downsyde Garage
 	DPC
@@ -88,6 +89,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	DSG
 	dSpec
 	DTP
+	DWYB
 
 
 ### Cars - E  
@@ -104,6 +106,7 @@ These are paid mods made by either individuals or groups of people that you shou
 
 	FD Replicas
 	FDAC
+	FDC
 	Forceful
 
 ### Cars - G  
@@ -158,7 +161,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	Midnight Wanderers
 	Mischief
 	MTN
-	MMotors
+	Mamiya Motors
 	MNBA
 
 ### Cars - N  
