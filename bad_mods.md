@@ -117,6 +117,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	Gothic
 	Guerilla Mods
 	GTPlanet Modding Team
+	GTSupreme
 	
 ### Cars - H  
 <sub><sup>[Back To Index](#cars)</sub></sup>
@@ -267,6 +268,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	pclipse
 	Sebastien Dommerdich
 	Shaun Clarke 
+	Tony Bar
 	Uncle M.
 	Wack
 	ZorroGSi
