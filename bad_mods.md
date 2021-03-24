@@ -213,6 +213,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	THC
 	The Boys Car Pack
 	Titan
+	Touge Union (featured_mods)
 	TSA
 	Tsujigiri
 	
