@@ -271,7 +271,8 @@ These are paid mods made by either individuals or groups of people that you shou
 	Mike173
 	pclipse
 	Sebastien Dommerdich
-	Shaun Clarke 
+	Shaun Clarke
+	Steve Stirpe
 	Tony Bar
 	Uncle M.
 	Wack
