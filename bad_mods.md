@@ -62,8 +62,9 @@ These are paid mods made by either individuals or groups of people that you shou
 <sub><sup>[Back To Index](#cars)</sub></sup>
 
 	Baker Workshop
-	Bruce Kelt
+	Big Duck Club
 	Bonny Mods
+	Bruce Kelt
 	BTG
 	Bushido Style
 	
@@ -81,12 +82,14 @@ These are paid mods made by either individuals or groups of people that you shou
 	DCGP
 	Death Wish Garage
 	Demon Domain
-	DKD
+	DK Drift
 	Downsyde Garage
 	DPC
 	DPWerkz
 	DPTune
-	Drag Factory 
+	Drag Factory
+	Drift Kidds
+	Drift Indy 
 	DSG
 	dSpec
 	DTP
@@ -101,6 +104,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	Eskuko
 	Euro vs. Japan
 	EZ
+	Evl Rabbit
 
 ### Cars - F  
 <sub><sup>[Back To Index](#cars)</sub></sup>
@@ -117,6 +121,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	Geroda74
 	Gothic
 	Guerilla Mods
+	GSDC
 	GTPlanet Modding Team
 	GTSupreme
 	
@@ -129,13 +134,15 @@ These are paid mods made by either individuals or groups of people that you shou
 <sub><sup>[Back To Index](#cars)</sub></sup>
 
 	IFX
+	Inertia Missile Car Pack
 	Initial D Car Pack
 	IRT Drift Engineering
 	IXA
 
 ### Cars - J  
 <sub><sup>[Back To Index](#cars)</sub></sup>
-
+	
+	Japan Side Drift
 	JR
 	JSI
 	Judd
@@ -153,14 +160,16 @@ These are paid mods made by either individuals or groups of people that you shou
 	L2DF
 	Le Crymserv
 	Legion
+	Liivefast
 	LND
 	Lonestar
 	LowStyleGang
 	LucasMods
+	
 ### Cars - M  
 <sub><sup>[Back To Index](#cars)</sub></sup>
 
-	Madz
+	MadZ
 	Midnight Wanderers
 	Mischief
 	MTN
@@ -171,7 +180,7 @@ These are paid mods made by either individuals or groups of people that you shou
 <sub><sup>[Back To Index](#cars)</sub></sup>
 
 	NoStyle
-	
+	NNNK (Nico Nico Nightkids)
 
 ### Cars - R  
 <sub><sup>[Back To Index](#cars)</sub></sup>
