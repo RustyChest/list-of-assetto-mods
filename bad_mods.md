@@ -281,6 +281,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	Mike Rudland
 	Mike173
 	pclipse
+	PedroBLR
 	Sebastien Dommerdich
 	Shaun Clarke
 	Steve Stirpe
