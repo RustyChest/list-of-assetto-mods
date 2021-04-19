@@ -17,6 +17,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	Assetto Corsa Pursuit
 	Codenayme Visuals
 	DRM Revival
+	EX Mods
 	Grant Hendry
 	RTM
 	SimDream
