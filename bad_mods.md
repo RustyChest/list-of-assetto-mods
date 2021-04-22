@@ -37,6 +37,7 @@ These are paid mods made by either individuals or groups of people that you shou
 
 	AC Car Pack
 	AC Cars Reworked
+	ACDFR
 	ACRD 
 	ACF 
 	ACF1
@@ -72,7 +73,7 @@ These are paid mods made by either individuals or groups of people that you shou
 ### Cars - C  
 <sub><sup>[Back To Index](#cars)</sub></sup>
 
-	CF
+	CFD
 	Chivas Autoart
 	Clutch Gang
 
@@ -81,14 +82,18 @@ These are paid mods made by either individuals or groups of people that you shou
 
 	D1NZ
 	DCGP
+	Dank Drifts
 	Death Wish Garage
 	Demon Domain
+	DGL
 	DK Drift
 	Downsyde Garage
+	DMVC
 	DPC
 	DPWerkz
 	DPTune
 	Drag Factory
+	Drifttime
 	Drift Kidds
 	Drift Indy 
 	DSG
@@ -114,6 +119,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	FDAC
 	FDC
 	Forceful
+	Fumi CP
 
 ### Cars - G  
 <sub><sup>[Back To Index](#cars)</sub></sup>
@@ -129,6 +135,7 @@ These are paid mods made by either individuals or groups of people that you shou
 ### Cars - H  
 <sub><sup>[Back To Index](#cars)</sub></sup>
 
+	Hert and Hoss
 	Hothead
 	
 ### Cars - I  
@@ -151,8 +158,8 @@ These are paid mods made by either individuals or groups of people that you shou
 ### Cars - K  
 <sub><sup>[Back To Index](#cars)</sub></sup>
 	
-	KlutchKickz
 	Kamikaze Works
+	KlutchKickz
 
 
 ### Cars - L  
@@ -219,19 +226,23 @@ These are paid mods made by either individuals or groups of people that you shou
 	STS
 	Street Demon
 	Street Kings
+	SWYD
 	SQDC
 	
 
 ### Cars - T  
 <sub><sup>[Back To Index](#cars)</sub></sup>
 
+	T2Z x Jdrift
 	Tando Buddies
 	Teleport
+	Team Silhouette
 	TCL
 	THC
 	The Boys Car Pack
 	Titan
-	Touge Union (featured_mods)
+	Touge Union (#featured_mods)
+	Toma
 	TSA
 	Tsujigiri
 	
@@ -239,7 +250,7 @@ These are paid mods made by either individuals or groups of people that you shou
 ### Cars - U  
 <sub><sup>[Back To Index](#cars)</sub></sup>
 
-
+	Ultimate Drift Pack
 
 ### Cars - V  
 <sub><sup>[Back To Index](#cars)</sub></sup>
@@ -292,6 +303,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	Steve Stirpe
 	Tony Bar
 	Uncle M.
+	Victor Alves
 	Wack
 	ZorroGSi
 
