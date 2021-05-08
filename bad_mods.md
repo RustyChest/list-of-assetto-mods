@@ -300,6 +300,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	Mike173
 	pclipse
 	PedroBLR
+	Rmi_wood
 	Sebastien Dommerdich
 	Shaun Clarke
 	Steve Stirpe
