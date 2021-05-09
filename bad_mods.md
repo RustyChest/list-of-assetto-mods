@@ -53,6 +53,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	ADC 
 	ADG
 	Akuma
+	ARTKato
 	ATCC
 	Assetto Corsa Gold
 	Assetto Garage
