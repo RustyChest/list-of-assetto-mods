@@ -21,6 +21,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	Geroda74
 	RTM
 	SimDream
+	The Bend
 	Tommy78
 	Tyrone
     	
