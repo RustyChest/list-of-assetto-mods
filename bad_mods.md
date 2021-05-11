@@ -15,6 +15,7 @@ These are paid mods made by either individuals or groups of people that you shou
 
 	AssettoDrive
 	Assetto Corsa Pursuit
+	AVR
 	Codenayme Visuals
 	DRM Revival
 	EX Mods
@@ -290,6 +291,7 @@ These are paid mods made by either individuals or groups of people that you shou
 <sub><sup>[Back To Index](#cars)</sub></sup>
 
 	Adriano Cotta Ramusino
+	Alexandre Dantas (hotstyle_mods)
 	Bazza von Dutch
 	Buja Gili
 	Cessna2807
@@ -310,7 +312,6 @@ These are paid mods made by either individuals or groups of people that you shou
 	Steve Stirpe
 	Tony Bar
 	Uncle M.
-	Victor Alves
 	Wack
 	ZorroGSi
 
@@ -339,7 +340,9 @@ These are paid mods made by either individuals or groups of people that you shou
 
 <p>Post-Process Filters bad enough that they may cause visual glitches with CSP / Sol features.</p>
 
+	AC+2020
 	BlackCelica's Filter
+	fanatiC's filters
 	Horizon Shades
 	Inmersive Filter
 	Zay Filters 		
