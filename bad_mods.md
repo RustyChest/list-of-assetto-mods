@@ -16,6 +16,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	AssettoDrive
 	Assetto Corsa Pursuit
 	AVR
+	B375 Motorsport
 	Codenayme Visuals
 	DRM Revival
 	EX Mods
