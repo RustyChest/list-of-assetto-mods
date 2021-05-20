@@ -299,16 +299,20 @@ These are paid mods made by either individuals or groups of people that you shou
 	Dan Gaina
 	Dan Bucsa
 	delpinsky
+	Dragster666
 	JakubP
 	Jaqory
 	Juise
 	Lucas Macedo
 	Kami
+	KENNETH
 	Mike Rudland
+	Mike Goulioumis
 	Mike173
 	pclipse
 	PedroBLR
 	Sebastien Dommerdich
+	Satiku
 	Shaun Clarke
 	Steve Stirpe
 	Tony Bar
