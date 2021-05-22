@@ -67,8 +67,9 @@ Want to know more about what makes a mod good or bad? Read more about the topic 
  
 [World Drift Tour](https://discord.gg/tPn8NrP) ![](https://www.google.com/s2/favicons?domain=www.discord.com)
 
-<sub><esp>*The WDT/WDTS cars are currently not pipeline-standard and have a few visual issues. They are here on the merit of physics alone.</sub></esp>
-<sub><esp>*WDT/WDTS cars have been shown to have dubious aero and are no longer what I would consider fully realistic, consider using 1:1 instead whenever possible.</sub></esp>
+<sub><esp>*WDT/WDTS Cars are mostly not compliant with pipeline standards when it comes to visuals and there are small physics issues that could be fixed later down the line.</sub></esp>
+
+
 ### Misc
 
 [Arch's Data Replacements](https://www.racedepartment.com/downloads/authors/kyuubeey.194589/ ) ![](https://www.google.com/s2/favicons?domain=www.racedepartment.com) 
