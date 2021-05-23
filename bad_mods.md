@@ -85,6 +85,7 @@ These are paid mods made by either individuals or groups of people that you shou
 <sub><sup>[Back To Index](#cars)</sub></sup>
 
 	D1NZ
+	DDM
 	DCGP
 	Dank Drifts
 	Death Wish Garage
@@ -300,7 +301,9 @@ These are paid mods made by either individuals or groups of people that you shou
 	Dan Gaina
 	Dan Bucsa
 	delpinsky
+	dj amur
 	Dragster666
+	Esprit3905
 	JakubP
 	Jaqory
 	Juise
