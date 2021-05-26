@@ -42,17 +42,17 @@ These are paid mods made by either individuals or groups of people that you shou
 	AC Cars Reworked
 	ACDFR
 	ACRD 
-	ACF 
+	ACF
 	ACF1
 	ACFL
 	ACFSK
 	AC Legends
-	ACMC
+	ACMC (Assetto Corsa Modding Central)
 	ACR
 	ACCR
 	ACTR
-	ACW 
-	ADC 
+	ACW (Assetto Corsa Workshop)
+	ADC (Aussie Drift Co.)
 	ADG
 	Akuma
 	ARTKato
@@ -71,7 +71,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	Big Duck Club
 	Bonny Mods
 	Bruce Kelt
-	BTG
+	BTG (Bridge To Gantry)
 	Bushido Style
 	
 ### Cars - C  
@@ -88,12 +88,12 @@ These are paid mods made by either individuals or groups of people that you shou
 	DDM
 	DCGP
 	Dank Drifts
-	Death Wish Garage
+	DWG (Death Wish Garage)
 	Demon Domain
 	DGL
 	DK Drift
 	Downsyde Garage
-	DMVC
+	DMVC (Drift Masters Virtual Competition)
 	DPC
 	DPWerkz
 	DPTune
@@ -102,7 +102,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	Drift Kidds
 	Drift Indy
 	Drift Snacks 
-	DSG
+	DSG (DownSyde Garage)
 	dSpec
 	DTP
 	DWYB
@@ -144,6 +144,7 @@ These are paid mods made by either individuals or groups of people that you shou
 
 	Hert and Hoss
 	Hothead
+	hush.
 	
 ### Cars - I  
 <sub><sup>[Back To Index](#cars)</sub></sup>
@@ -168,7 +169,6 @@ These are paid mods made by either individuals or groups of people that you shou
 	Kamikaze Works
 	KlutchKickz
 
-
 ### Cars - L  
 <sub><sup>[Back To Index](#cars)</sub></sup>
 
@@ -178,7 +178,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	Liivefast
 	LND
 	Lonestar
-	LowStyleGang
+	LSG (LowStyleGang)
 	LucasMods
 	
 ### Cars - M  
@@ -199,6 +199,11 @@ These are paid mods made by either individuals or groups of people that you shou
 	NNNK (Nico Nico Nightkids)
 	NCR
 	
+### Cars - O 
+<sub><sup>[Back To Index](#cars)</sub></sup>
+
+	OTM (On The Mountain)
+
 ### Cars - P 
 <sub><sup>[Back To Index](#cars)</sub></sup>
 
@@ -219,7 +224,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	The Rollovers
 	Rotang Clan
 	RUS180
-	Rudolf The Car Guy (rtcg)
+	RTCG (Rudolf The Car Guy)
 	
 ### Cars - S  
 <sub><sup>[Back To Index](#cars)</sub></sup>
@@ -254,6 +259,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	Titan
 	Touge Union (#featured_mods)
 	Toma
+	TNT (Top Notch Tuning)
 	TSA
 	Tsujigiri
 	
@@ -266,7 +272,7 @@ These are paid mods made by either individuals or groups of people that you shou
 ### Cars - V  
 <sub><sup>[Back To Index](#cars)</sub></sup>
 
-	VDC 
+	VDC (Virtual Drift Competition)
 	Velo's Workshop
 
 ### Cars - W  
@@ -341,6 +347,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	Terra21
 	Tyrone
 	Mitja (URD)
+	NOON
 	Patrikpat
 	RMI_Wood
 
