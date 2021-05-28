@@ -204,7 +204,7 @@ These are paid mods made by either individuals or groups of people that you shou
 ### Cars - O 
 <sub><sup>[Back To Index](#cars)</sub></sup>
 
-	OTM (On The Mountain)
+
 
 ### Cars - P 
 <sub><sup>[Back To Index](#cars)</sub></sup>
@@ -274,7 +274,7 @@ These are paid mods made by either individuals or groups of people that you shou
 ### Cars - V  
 <sub><sup>[Back To Index](#cars)</sub></sup>
 
-	VDC (Virtual Drift Competition)
+	VDC (Virtual Drift Championship)
 	Velo's Workshop
 
 ### Cars - W  
