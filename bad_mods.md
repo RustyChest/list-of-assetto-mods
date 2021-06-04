@@ -70,6 +70,7 @@ These are paid mods made by either individuals or groups of people that you shou
 <sub><sup>[Back To Index](#cars)</sub></sup>
 
 	Baker Workshop
+	beans86
 	Big Duck Club
 	Bonny Mods
 	Bruce Kelt
@@ -87,7 +88,7 @@ These are paid mods made by either individuals or groups of people that you shou
 <sub><sup>[Back To Index](#cars)</sub></sup>
 
 	D1NZ
-	DDM
+	ddm
 	DCGP
 	Dank Drifts
 	DWG (Death Wish Garage)
@@ -161,6 +162,7 @@ These are paid mods made by either individuals or groups of people that you shou
 <sub><sup>[Back To Index](#cars)</sub></sup>
 	
 	Japan Side Drift
+	Jaskier (js_ , jx_)
 	JR
 	JSI
 	Judd
@@ -168,8 +170,8 @@ These are paid mods made by either individuals or groups of people that you shou
 ### Cars - K  
 <sub><sup>[Back To Index](#cars)</sub></sup>
 	
-	Kamikaze Works
-	KlutchKickz
+	Kamikaze Works 
+	KlutchKickz & Chill
 
 ### Cars - L  
 <sub><sup>[Back To Index](#cars)</sub></sup>
