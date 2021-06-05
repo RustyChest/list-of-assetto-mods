@@ -23,6 +23,8 @@ These are paid mods made by either individuals or groups of people that you shou
 	DRM Revival
 	EX Mods
 	Geroda74
+	Jaskier (js_ , jx_)
+	Lucas Macedo (MacedoSTI)
 	RTM
 	SimDream
 	The Bend
