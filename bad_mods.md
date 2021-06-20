@@ -333,9 +333,11 @@ These are paid mods made by either individuals or groups of people that you shou
 	Shaun Clarke
 	Steve Stirpe
 	Tony Bar
+	TheRealCeeBee
 	Uncle M.
 	Wack
 	ZorroGSi
+	Zinki
 
 ### Track Authors
 <sub><sup>[Back To Index](#cars)</sub></sup>
