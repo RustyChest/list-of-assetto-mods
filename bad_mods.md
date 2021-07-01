@@ -139,6 +139,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	Geroda74
 	Gothic
 	Guerilla Mods
+	Gravy Garage
 	GRSD
 	GSDC
 	GTPlanet Modding Team
@@ -249,6 +250,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	STS
 	Street Demon
 	Street Kings
+	Stylebangers
 	SWYD
 	SQDC
 	
