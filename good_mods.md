@@ -28,8 +28,8 @@ Want to know more about what makes a mod good or bad? Read more about the topic 
 
 ## Cars
 
-**Filtered by Discipline: [GT](#gt-series) | [LMP](#lmp) | [Vintage Racecars](#vintage-race-cars)
- | [Road Cars](#road) | [Tuned - Drift](#tuned-/-drift-spec) | [Misc](#misc)**
+**Filtered by Discipline: [Fictional](#fictional) | [GT](#gt-series) | [LMP](#lmp) | [Vintage Racecars](#vintage-race-cars)
+ | [Road Cars](#road) | [Tuned - Drift](#drift-or-street-tune) | [Misc](#misc)**
 ### GT Series
 
 [TopRace](https://discord.gg/xhb3fhr) ![](https://www.google.com/s2/favicons?domain=www.discord.com)
@@ -57,9 +57,11 @@ Want to know more about what makes a mod good or bad? Read more about the topic 
 
 [Pessio](https://www.racedepartment.com/downloads/authors/pessio.373712/) ![](https://www.google.com/s2/favicons?domain=www.racedepartment.com)  
 
-[Stereo](https://www.racedepartment.com/downloads/authors/stereo.9613/) ![](https://www.google.com/s2/favicons?domain=www.racedepartment.com) 
+[Stereo](https://www.racedepartment.com/downloads/authors/stereo.9613/) ![](https://www.google.com/s2/favicons?domain=www.racedepartment.com)
 
-### Tuned / Drift Spec
+[aphidgod](https://www.racedepartment.com/members/aphidgod.218231/#resources) ![](https://www.google.com/s2/favicons?domain=www.racedepartment.com)
+
+### Drift or Street Tune
 
 [SimSquad](https://discord.gg/cxqqwsz) ![](https://www.google.com/s2/favicons?domain=www.discord.com)
 
@@ -69,6 +71,9 @@ Want to know more about what makes a mod good or bad? Read more about the topic 
 
 <sub><esp>*WDT/WDTS Cars are mostly not compliant with pipeline standards when it comes to visuals and there are small physics issues that could be fixed later down the line.</sub></esp>
 
+### Fictional
+
+[Jakoman](https://www.racedepartment.com/members/jakoman3.329962/#resources) ![](https://www.google.com/s2/favicons?domain=www.racedepartment.com)
 
 ### Misc
 
@@ -97,6 +102,10 @@ Want to know more about what makes a mod good or bad? Read more about the topic 
 [Sergio Loro's Free Releases](https://sellfy.com/f3classictracks/) ![](https://www.google.com/s2/favicons?domain=www.sellfy.com) 
 
 [Brun](https://www.racedepartment.com/downloads/authors/brun.17545/) ![](https://www.google.com/s2/favicons?domain=www.racedepartment.com) 
+
+[DoubleZero](https://www.racedepartment.com/downloads/authors/doublezero.1666296/) ![](https://www.google.com/s2/favicons?domain=www.racedepartment.com) 
+
+[LeMax](https://www.lemaxsimracing.com/assettocorsa) ![](https://www.google.com/s2/favicons?domain=www.lemaxsimracing.com) 
 
 ## Post-Process Filters
 <p>A few filters that are user-friendly and don't suffer from common issues like overexposure or glare that is a lot brighter than it should be </p>
