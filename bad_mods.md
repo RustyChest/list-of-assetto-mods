@@ -192,6 +192,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	Lonestar
 	LSG (LowStyleGang)
 	LucasMods
+	LTK (Lu Thua Kien)
 	
 ### Cars - M  
 <sub><sup>[Back To Index](#cars)</sub></sup>
@@ -296,7 +297,7 @@ These are paid mods made by either individuals or groups of people that you shou
 
 	VDC (Virtual Drift Championship)
 	Velo's Workshop
-
+	Vrstnr Modding
 ### Cars - W  
 <sub><sup>[Back To Index](#cars)</sub></sup>
 
@@ -336,6 +337,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	Jaqory
 	Juise
 	Lucas Macedo
+	Lu Thua Kien
 	Kami
 	KENNETH
 	Mike Rudland
