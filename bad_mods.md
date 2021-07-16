@@ -22,6 +22,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	Codenayme Visuals
 	DRM Revival
 	EX Mods
+	Garage Wayout
 	Geroda74
 	Jaskier (js_ , jx_)
 	Lucas Macedo (MacedoSTI)
@@ -90,14 +91,16 @@ These are paid mods made by either individuals or groups of people that you shou
 <sub><sup>[Back To Index](#cars)</sub></sup>
 
 	D1NZ
+	Dank Drifts
+	DBN Street
 	ddm
 	DCGP
-	Dank Drifts
 	DWG (Death Wish Garage)
 	Demon Domain
 	DGL
 	DK Drift
 	Downsyde Garage
+	Doorbreakerz
 	DMVC (Drift Masters Virtual Competition)
 	DPC
 	DPWerkz
@@ -120,6 +123,8 @@ These are paid mods made by either individuals or groups of people that you shou
 	EDC
 	Eskuko
 	Euro vs. Japan
+	Elemento-str
+	ESDA (E-Sports Drift Association)
 	EZ
 	Evl Rabbit
 
@@ -216,6 +221,11 @@ These are paid mods made by either individuals or groups of people that you shou
 
 	Project New Normal
 
+### Cars - Q 
+<sub><sup>[Back To Index](#cars)</sub></sup>
+
+	QDC
+
 ### Cars - R  
 <sub><sup>[Back To Index](#cars)</sub></sup>
 
@@ -250,7 +260,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	STS
 	Street Demon
 	Street Kings
-	Stylebangers
+	StyleBangers
 	SWYD
 	SQDC
 	
@@ -259,10 +269,13 @@ These are paid mods made by either individuals or groups of people that you shou
 <sub><sup>[Back To Index](#cars)</sub></sup>
 
 	T2Z x Jdrift
+	T2DC OG
 	Tando Buddies
+	TeamEffort
 	Teleport
 	Team Silhouette
 	TCL
+	TGN Modding
 	THC
 	The Boys Car Pack
 	Titan
