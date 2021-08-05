@@ -32,9 +32,6 @@ Want to know more about what makes a mod good or bad? Read more about the topic 
  | [Road Cars](#road) | [Tuned - Drift](#drift-or-street-tune) | [Misc](#misc)**
 ### GT Series
 
-[TopRace](https://discord.gg/xhb3fhr) ![](https://www.google.com/s2/favicons?domain=www.discord.com)
-* Do not download anything older than 2/18/2020 as these are beginner-tier mods by ELEMENT. His work (along with Weslin's) is not what I'd call visually pleasing and at times downright unacceptable, rest is fine. 
-
 [Barrikad Krew](https://discord.gg/twFH8fD) ![](https://www.google.com/s2/favicons?domain=www.discord.com)
 
 ### LMP
