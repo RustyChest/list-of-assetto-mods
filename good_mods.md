@@ -115,5 +115,3 @@ Want to know more about what makes a mod good or bad? Read more about the topic 
 [NaturalMod](https://www.racedepartment.com/downloads/natural-graphics-mod-filter.4551/) ![](https://www.google.com/s2/favicons?domain=www.racedepartment.com)
 
 [Javire's "Photorealistic" Filter](https://www.racedepartment.com/downloads/photorealistic-filter.34050/) ![](https://www.google.com/s2/favicons?domain=www.racedepartment.com)
-
-You can find more filters here on [PPC](https://discord.gg/NdsbskqxZJ) ![](https://www.google.com/s2/favicons?domain=www.discord.com)
