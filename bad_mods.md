@@ -332,6 +332,8 @@ These are paid mods made by either individuals or groups of people that you shou
 	delpinsky
 	dj amur
 	Dragster666
+	EarthWormJim90
+	Ewan Huzami
 	Esprit3905
 	JakubP
 	Jaqory
@@ -339,6 +341,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	Lucas Macedo
 	Lu Thua Kien
 	Kami
+	Kamil Cader
 	KENNETH
 	Mike Rudland
 	Mike Goulioumis
@@ -348,6 +351,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	Sebastien Dommerdich
 	Satiku
 	Shaun Clarke
+	SpeedStar2000
 	Steve Stirpe
 	Tony Bar
 	TheRealCeeBee
@@ -358,7 +362,9 @@ These are paid mods made by either individuals or groups of people that you shou
 
 ### Track Authors
 <sub><sup>[Back To Index](#cars)</sub></sup>
-
+	
+	370autobus
+	AVPS (Asociación de Pilotos Virtuales Sudamericanos)
 	Assetto Corsa Underground(ACU)
 	Assetto Rally GRB (rallyGRB)
 	AC Fanboy
@@ -366,15 +372,20 @@ These are paid mods made by either individuals or groups of people that you shou
 	AC Track Reboot
 	ChiQuiFReaKy
 	Grant Hendry
+	Fourty-Too! 
 	Jmanbz
 	Klutch Kicks & Chill
+	leBluem
 	TheRealCeeBee
 	Tiago Lima
 	Terra21
 	Tyrone
+	MeltFire
 	Mitja (URD)
 	NOON
 	Patrikpat
+	pk3r72owns
+	r3b3ld3
 	RMI_Wood
 
 ## Post-Process Filters
