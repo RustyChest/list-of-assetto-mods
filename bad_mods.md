@@ -346,6 +346,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	Mike Rudland
 	Mike Goulioumis
 	Mike173
+	Nizar Razzouk
 	pclipse
 	PedroBLR
 	Sebastien Dommerdich
